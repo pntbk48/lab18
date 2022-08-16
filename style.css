@@ -1,0 +1,30 @@
+.carousel-item {
+  height: 32rem;
+}
+
+.bg-img1 {
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.5),
+      rgba(34, 34, 34, 0.5)
+    ),
+    url(Slide-1.jpg);
+  background-size: cover;
+}
+
+.bg-img2 {
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.5),
+      rgba(34, 34, 34, 0.5)
+    ),
+    url(Slide-1.jpg);
+  background-size: cover;
+}
+
+.bg-img3 {
+  background-image: linear-gradient(
+      rgba(34, 34, 34, 0.5),
+      rgba(34, 34, 34, 0.5)
+    ),
+    url(Slide-1.jpg);
+  background-size: cover;
+}
